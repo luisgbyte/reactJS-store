@@ -1,2 +1,2 @@
-# reactjs-miniStore
+# store
 Created with CodeSandbox
